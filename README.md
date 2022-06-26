@@ -2,9 +2,9 @@ How To Project Run
 
 1.Clone this project
 
-2.open terminal inside the project folder 
+2.Open terminal inside the project folder 
 
-3.give follwing command: 
+3.Give follwing command: 
 
 4.npm i  
 
