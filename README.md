@@ -1,4 +1,3 @@
-https://documenter.postman.com/preview/19698610-f8da48bd-cc71-42d6-a6f1-3f8ed60f6bfa?environment=&versionTag=latest&apiName=CURRENT&version=latest&documentationLayout=classic-double-column&right-sidebar=303030&top-bar=FFFFFF&highlight=EF5B25
 
 How To Project Run
 
@@ -13,4 +12,6 @@ How To Project Run
 5.npm test
 
 ![t1](https://user-images.githubusercontent.com/101436175/175790652-ff0b9dd7-25ee-44ab-a115-71d86b5a65a5.JPG)
+
+https://documenter.postman.com/preview/19698610-f8da48bd-cc71-42d6-a6f1-3f8ed60f6bfa?environment=&versionTag=latest&apiName=CURRENT&version=latest&documentationLayout=classic-double-column&right-sidebar=303030&top-bar=FFFFFF&highlight=EF5B25
 
